@@ -16,7 +16,7 @@ description: |
     Needs an Isaac Sim host with the wandelbots.omni extension (>= 2.73.0 for
     depth); set the host in the app's Isaac Sim panel.
     NOTE: This preview app is experimental and only available Wandelbots internal.
-homepage: https://github.com/wandelbotsgmbh/isaac-sim-camera-app
+homepage: https://github.com/wb-int/isaac-sim-camera-app
 app:
     name: isaac-sim-camera-app
     appIcon: app_icon.png
